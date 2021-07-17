@@ -1,2 +1,1 @@
-# Kabitat
-Tema Kabitat
+# bootstrap_kabitat
